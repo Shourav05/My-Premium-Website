@@ -105,3 +105,6 @@ padding: 5px;
     justify-content: space-around;
     padding: 20px;
 }
+.service-container{
+    background-color: rgb(53, 53, 53);
+}
